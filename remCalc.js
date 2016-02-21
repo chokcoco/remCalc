@@ -1,3 +1,4 @@
+// JS 动态设定 document 的 font-size
 // 以 320 的设备宽度为基准，320 下 10px 为 1rem
 (function(doc, win) {
   var docEl = doc.documentElement,
